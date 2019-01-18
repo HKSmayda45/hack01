@@ -9,7 +9,7 @@
 
 int main(int argc, char **argv){
 	
-	//this hack prints the message hello 
+	//this hack prints the message Holden Smayda and Asmita Jayswal 
 	printf("Holden Smayda and Asmita Jayswal");
 	printf("Major : Computer Science");
 	
