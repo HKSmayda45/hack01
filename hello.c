@@ -11,6 +11,7 @@ int main(int argc, char **argv){
 	
 	//this hack prints the message hello 
 	printf("Hello");
+	printf("Major : Computer Science");
 	
 	return 0;
 }
